@@ -1,0 +1,23 @@
+.cards {
+    margin:10px;
+    display: inline-block;
+    height: 250px;
+    width: 20%;
+  background: #222222;
+    -webkit-box-shadow: 12px 12px 40px -17px rgba(47,68,195,1);
+-moz-box-shadow: 12px 12px 40px -17px rgba(47,68,195,1);
+box-shadow: 12px 12px 40px -17px rgba(47,68,195,1)
+}
+.cards:hover{
+    cursor: pointer;
+    border: solid #222222;
+ -webkit-box-shadow: 12px 12px 40px -13px rgba(47,68,195,1);
+-moz-box-shadow: 12px 12px 40px -13px rgba(47,68,195,1);
+box-shadow: 12px 12px 40px -13px rgba(47,68,195,1);
+}
+.cards h1{
+
+}
+.cards h3{
+
+}

@@ -1,0 +1,23 @@
+.App-header {
+  background-color: black;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+.logo{
+  display:inline-block;
+}
+.logo h1{
+  color: #2f44c3;
+  font-style: cursive;
+
+}
+.nav-list-item{
+  display: inline-block;
+margin: 10px;
+  font-size: 1.2em;
+}
+.nav-list-item:hover{
+  cursor: pointer;
+  color: #2f44c3;
+}
